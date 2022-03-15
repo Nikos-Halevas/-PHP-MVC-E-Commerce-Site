@@ -1,5 +1,5 @@
 # A PHP MVC E-Commerce-Site
-An e-commerce Web-Site mae with Vue.js, PHP,MySQL
+An e-commerce Web-Site made with Vue.js, PHP,MySQL
 
 
 # Requirements:
